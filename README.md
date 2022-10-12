@@ -1,3 +1,4 @@
+-:raising_hand: ABOUT ME
 - 👋 Hi, I’m Jayshee Negi
 - 👀 I’m interested in Learning New Programming Languages
 - 🌱 I’m currently learning Laravel
