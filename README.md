@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @1997Jaysheenegi
+- 👋 Hi, I’m Jayshee Negi
 - 👀 I’m interested in Learning New Programming Languages
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me negijayshee@gmail.com
 
 <!---
