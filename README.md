@@ -1,4 +1,4 @@
-  :raising_hand: <h1>ABOUT ME</h1>
+  <h1>:raising_hand: ABOUT ME</h1>
   
 - 👋 Hi, I’m Jayshee Negi
 - 👀 I’m interested in Learning New Programming Languages
